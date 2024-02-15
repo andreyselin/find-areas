@@ -1,4 +1,4 @@
-import { markConnected } from './markConnected';
+import { markConnected } from './markConnected.js';
 
 describe('utils::markConnected', function () {
   const areaMark = 2;

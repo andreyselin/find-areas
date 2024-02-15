@@ -1,1 +1,1 @@
-export * from './getNeighbourRefs';
+export * from './getNeighbourRefs.js';

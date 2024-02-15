@@ -1,1 +1,1 @@
-export * from './findAreas';
+export * from './findAreas.js';

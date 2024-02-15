@@ -1,4 +1,4 @@
-import { markConnected } from '../markConnected';
+import { markConnected } from '../markConnected/index.js';
 
 export function findAreas(matrix) {
   // This value is used to mark processed cells and to get length from it

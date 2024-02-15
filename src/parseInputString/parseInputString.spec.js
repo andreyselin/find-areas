@@ -1,4 +1,4 @@
-import { parseInputString } from './parseInputString';
+import { parseInputString } from './parseInputString.js';
 
 describe('utils::parseInput', function () {
   it('Should parse on-line input', () => {

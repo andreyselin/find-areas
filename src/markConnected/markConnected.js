@@ -1,4 +1,4 @@
-import { getNeighbourRefs } from '../getNeighbourRefs';
+import { getNeighbourRefs } from '../getNeighbourRefs/index.js';
 
 export function markConnected({ matrix, areaMark, x, y }) {
   if (matrix[y]?.[x] === 1) {

@@ -1,5 +1,4 @@
-import { findAreas } from './findAreas';
-import expect from 'expect';
+import { findAreas } from './findAreas.js';
 
 describe('utils::findAreas', function () {
   it('Should mark 2 areas', () => {

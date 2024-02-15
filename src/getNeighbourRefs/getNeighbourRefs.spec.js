@@ -1,4 +1,4 @@
-import { getNeighbourRefs } from './getNeighbourRefs';
+import { getNeighbourRefs } from './getNeighbourRefs.js';
 
 describe('utils::getNeighbourRefs', function () {
   const matrix = [

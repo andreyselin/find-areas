@@ -12,7 +12,6 @@
   },
   "scripts": {
     "test": "jest",
-    "start-esm": "node -r esm src/main.js",
     "start": "node src/main.js"
   }
 }
